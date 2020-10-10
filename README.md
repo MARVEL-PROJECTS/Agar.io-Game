@@ -1,3 +1,5 @@
+### Full Credits to [TechWithTim](https://github.com/techwithtim/Agar-IO)
+
 # Agar-IO
 A duplication of the game Agar.io written in python
 
